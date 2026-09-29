@@ -1,0 +1,6 @@
+{
+  "name": "Salim",
+  "description": "Precision clock, alarms, world clock, stopwatch, and timer crafted with refined clarity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
